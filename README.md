@@ -17,8 +17,7 @@ This project was created with:
 
 ## Screenshots
 
-![Colmar Academy Screen Recording](resources/images/colmar-academy-screen-recording.gif)
-![Project Image 1](resources/images/project-image-1.jpg)
+![Project Image 1](resources/images/project-image-1.png)
 
 ## Status
 
